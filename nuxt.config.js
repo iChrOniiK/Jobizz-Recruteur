@@ -1,0 +1,60 @@
+export default {
+  // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
+  ssr: false,
+
+  // Global page headers: https://go.nuxtjs.dev/config-head
+  head: {
+    title: 'testSiteNuxt',
+    htmlAttrs: {
+      lang: 'en'
+    },
+    meta: [
+      { charset: 'utf-8' },
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+      { hid: 'description', name: 'description', content: '' },
+      { name: 'format-detection', content: 'telephone=no' }
+    ],
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+    ]
+  },
+
+  // Global CSS: https://go.nuxtjs.dev/config-css
+  css: [
+  ],
+
+  // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
+  plugins: [
+  ],
+
+  bootstrapVue: {
+    icons: true
+  },
+  styleResources: {
+    scss: [
+      '~/styles/app.scss'
+    ]
+  },
+
+  // Auto import components: https://go.nuxtjs.dev/config-components
+  components: true,
+
+  // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
+  buildModules: [
+  ],
+
+  // Modules: https://go.nuxtjs.dev/config-modules
+  modules: [
+    'bootstrap-vue/nuxt'
+
+  ],
+
+
+  // Build Configuration: https://go.nuxtjs.dev/config-build
+  build: {
+  },
+
+/*  env: {
+    VUE_APP_API_URL: process.env.NODE_ENV === 'development' ? 'http://127.0.0.1:34002' : process.env.NODE_ENV === 'staging' ? 'http://time2start.preprod.edencia.com:34002' : 'https://api.time2start.fr'
+  }*/
+}
