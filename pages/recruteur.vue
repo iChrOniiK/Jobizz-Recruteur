@@ -9,9 +9,9 @@
         <b-col>
           <h1 class="recruteur-layout__title pt-3 pb-3">Le recrutement plus efficacement.</h1>
           <p  class="recruteur-layout__subtitle pb-3">Découvrez une nouvelle méthode de recrutement lors de vos ouvertures de poste.</p>
-          <div href="http://51.103.25.25:3000/#/Recruteur/Register">
-            <button class="recruteur-layout__btn" >Donwload Now</button>
-          </div>
+            <NuxtLink to="/#/Recruteur/Login">
+              <button class="recruteur-layout__btn" >Donwload Now</button>
+            </NuxtLink>
         </b-col>
         <b-col>
           <b-img class="recruteur-layout__cover mt-3 mb-5 pb-5" :src="require('@/assets/sect2.png')"></b-img>

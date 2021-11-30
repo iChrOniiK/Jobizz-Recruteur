@@ -8,9 +8,11 @@
       <b-row>
         <b-col>
           <h1 class="recruteur-layout__title pt-3 pb-3">Pourquoi Jobizz ?</h1>
-          <p  class="recruteur-layout__subtitle pb-3">Parce que Talent circle est une solution pour recruter plus
-            efficacement et intelligemment tout en améliorant votre expérience candidat.</p>
-          <button class="recruteur-layout__btn" >Je veux tester l'outil ?</button>
+          <p  class="recruteur-layout__subtitle pb-3">Parce que Jobizz est une solution pour recruter plus
+            efficacement et intelligemment tout en améliorant votre expérience recruteur.</p>
+          <NuxtLink to="/#/Recruteur/Login">
+            <button class="recruteur-layout__btn" >Je veux tester l'outil ?</button>
+          </NuxtLink>
         </b-col>
         <b-col>
           <b-img class="recruteur-layout__cover mt-3 mb-5 pb-5" :src="require('@/assets/team3.png')"></b-img>
@@ -29,7 +31,7 @@
             <p  class="recruteur-block__subtitle pb-3">Le recrutement est un processus complexe et propre à chaque entreprise :</p>
             <p>Un coût d’acquisition important</p>
             <p>Un temps de traitement élevé</p>
-            <p>Un parcours candidat laborieux</p>
+            <p>Un parcours recruteur laborieux</p>
           </b-col>
         </b-row>
       </b-container>
@@ -48,7 +50,7 @@
             <h3 class="pt-3 pb-3">✓ Plateforme complète et intuitive</h3>
             <p class="pb-3">Vous trouvez les meilleurs candidats avec notre système de filtres et vous les contactez directement.</p>
             <h3 class="pt-3 pb-3">✓ Nos meilleurs profils selon nous</h3>
-            <p class="pb-3">Vous trouvez les meilleurs candidats avec notre système de filtres et vous les contactez directement.</p>
+            <p class="pb-3">Vous trouvez des candidats motivé et parfois dans le besoin.</p>
           </b-col>
         </b-row>
       </b-container>

@@ -55,9 +55,11 @@
       </div>
     </div>
     <div class="row justify-content-center">
-      <b-button class="head__btn">
-        Télechargement Maintenant
-      </b-button>
+      <NuxtLink to="/#/Recruteur/Login">
+        <b-button class="head__btn">
+          Télechargement Maintenant
+        </b-button>
+      </NuxtLink>
       <b-img width="100" :src="require('@/assets/element2.png')"></b-img>
     </div>
 
