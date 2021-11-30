@@ -13,7 +13,7 @@
     <a href="https://testflight.apple.com/join/Oxi8gyvA/">
       <button class="button btn">Télécharger</button>
     </a>
-    <NuxtLink to="/pres">
+    <NuxtLink to="/#pres">
       <button class="button2 btn">  En savoir plus</button>
     </NuxtLink>
     </div>

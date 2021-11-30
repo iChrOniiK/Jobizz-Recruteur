@@ -11,7 +11,7 @@
       En accédant à l'application JoBizz, vous allez pouvoir accéder à plusieurs offre d'emploi,
       un profil personnalisé et une utilisation simple et adapté à tout type d'utilisateur.
     </p>
-    <NuxtLink  to="/features">
+    <NuxtLink  to="/#features">
     <button class="button btn"> En savoir plus</button></NuxtLink>
     </div>
   </div>

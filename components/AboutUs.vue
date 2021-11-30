@@ -9,7 +9,7 @@
       C’est pourquoi nous avons créé JoBizz, une application pour vous aider dans ces démarches.
       Notre solution permettrait un accès plus rapide et plus facile aux personnes dans le besoin.
     </p>
-    <NuxtLink  to="/features">
+    <NuxtLink  to="/#features">
     <button class="button btn"> En savoir plus</button></NuxtLink>
     </div>
     <img src="../assets/team.svg" alt="" class="image">
