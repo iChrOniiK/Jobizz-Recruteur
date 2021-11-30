@@ -15,7 +15,7 @@
           <b-nav-item>
             <NuxtLink class="text-color" to="/">Candidat</NuxtLink>
           </b-nav-item>
-          <b-nav-item href="http://51.103.25.25:3000/#/Recruteur/Register">
+          <b-nav-item href="http://jobizz.hopto.org:3000/#/Recruteur/Login">
             <button class="button btn">
               Commencer
             </button>
