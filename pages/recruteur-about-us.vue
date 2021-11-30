@@ -30,9 +30,18 @@
     <b-container>
       <b-row>
         <b-col>
-          <p class="list">Transparence</p>
-          <p class="list">User Friendly</p>
-          <p class="list">Facile d'utilisation</p>
+          <div>
+            <p class="list">Transparence</p>
+            <p>Un outil transparent sur le recrutument pour vos différentes annonce !</p>
+          </div>
+          <div>
+            <p class="list">User Friendly</p>
+            <p>Une expérience utilisateur orienté recruteur</p>
+          </div>
+          <div>
+            <p class="list">Facile d'utilisation</p>
+            <p>Un outil facile à utiliser et simple d'accès !</p>
+          </div>
         </b-col>
         <b-col>
           <b-img class="head__cover mb-5 pb-5" :src="require('@/assets/phone_1.png')"></b-img>
@@ -126,10 +135,9 @@ export default {
 }
 
 .list {
-  font-family: 'Monaco', sans-serif;
   color: black;
   font-size: 36px;
-  padding-top: 2rem;
+  padding-top: 1rem;
 
 }
 </style>

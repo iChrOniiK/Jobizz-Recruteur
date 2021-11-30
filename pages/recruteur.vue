@@ -9,7 +9,9 @@
         <b-col>
           <h1 class="recruteur-layout__title pt-3 pb-3">Le recrutement plus efficacement.</h1>
           <p  class="recruteur-layout__subtitle pb-3">Découvrez une nouvelle méthode de recrutement lors de vos ouvertures de poste.</p>
-          <button class="recruteur-layout__btn" >Donwload Now</button>
+          <div href="http://51.103.25.25:3000/#/Recruteur/Register">
+            <button class="recruteur-layout__btn" >Donwload Now</button>
+          </div>
         </b-col>
         <b-col>
           <b-img class="recruteur-layout__cover mt-3 mb-5 pb-5" :src="require('@/assets/sect2.png')"></b-img>
@@ -24,14 +26,14 @@
           <b-col class="recruteur-layout2__col">
             <b-img class="recruteur-layout2__cover mt-3 mb-5 pb-5" :src="require('@/assets/block1.png')"></b-img>
             <h2 class="recruteur-layout2__title pt-3 pb-3">Une meilleure expérience recruteur</h2>
-            <p  class="recruteur-layout2__subtitle pb-3">Un coup de cœur pour un talent mais de de poste pour lui? Cooptez-le directement depuis Talent Circle.
+            <p  class="recruteur-layout2__subtitle pb-3">Un coup de cœur pour un talent mais de de poste pour lui? Cooptez-le directement depuis Jobizz.
               Vous valorisez son parcours candidat en lui ouvrant votre réseau.</p>
           </b-col>
           <b-col class="recruteur-layout2__col">
             <b-img class="recruteur-layout2__cover mt-3 mb-5 pb-5" :src="require('@/assets/block3.png')"></b-img>
-            <h2 class="recruteur-layout2__title pt-3 pb-3">Une meilleure expérience recruteur</h2>
-            <p  class="recruteur-layout2__subtitle pb-3">Un coup de cœur pour un talent mais de de poste pour lui?
-              Cooptez-le directement depuis Talent Circle. Vous valorisez son parcours candidat en lui ouvrant votre réseau.</p>
+            <h2 class="recruteur-layout2__title pt-3 pb-3">Besoin de personnelle de dernière minute ?</h2>
+            <p  class="recruteur-layout2__subtitle pb-3">Jobizz vous met a disposition une multitude de choix de candidats en fonction de vos annonces posté
+            directement sur la plateforme et visible par tout le monde !</p>
           </b-col>
         </b-row>
       </b-container>
