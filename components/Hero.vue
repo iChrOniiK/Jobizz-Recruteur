@@ -109,6 +109,7 @@ export default {
     .text-container {
         width: 80%;
         margin-bottom: 4rem;
+        margin-top: 5rem;
     }
     .header {
         font-weight: 900;

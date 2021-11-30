@@ -3,48 +3,56 @@
     "name": "features",
     "path": "/features",
     "component": "/Users/theolebarq/Documents/jobizz/test/Jobizz-Recruteur/pages/features.vue",
-    "chunkName": "pages/features"
+    "chunkName": "pages/features",
+    "_name": "_c7628ff8"
   },
   {
     "name": "pres",
     "path": "/pres",
     "component": "/Users/theolebarq/Documents/jobizz/test/Jobizz-Recruteur/pages/pres.vue",
-    "chunkName": "pages/pres"
+    "chunkName": "pages/pres",
+    "_name": "_dea51812"
   },
   {
     "name": "recruteur",
     "path": "/recruteur",
     "component": "/Users/theolebarq/Documents/jobizz/test/Jobizz-Recruteur/pages/recruteur.vue",
-    "chunkName": "pages/recruteur"
+    "chunkName": "pages/recruteur",
+    "_name": "_33acae6a"
   },
   {
     "name": "recruteur-about-us",
     "path": "/recruteur-about-us",
     "component": "/Users/theolebarq/Documents/jobizz/test/Jobizz-Recruteur/pages/recruteur-about-us.vue",
-    "chunkName": "pages/recruteur-about-us"
+    "chunkName": "pages/recruteur-about-us",
+    "_name": "_1cc93591"
   },
   {
     "name": "recruteur-why-jobizz",
     "path": "/recruteur-why-jobizz",
     "component": "/Users/theolebarq/Documents/jobizz/test/Jobizz-Recruteur/pages/recruteur-why-jobizz.vue",
-    "chunkName": "pages/recruteur-why-jobizz"
+    "chunkName": "pages/recruteur-why-jobizz",
+    "_name": "_3427fab8"
   },
   {
     "name": "team",
     "path": "/team",
     "component": "/Users/theolebarq/Documents/jobizz/test/Jobizz-Recruteur/pages/team.vue",
-    "chunkName": "pages/team"
+    "chunkName": "pages/team",
+    "_name": "_795935a4"
   },
   {
     "name": "timeline",
     "path": "/timeline",
     "component": "/Users/theolebarq/Documents/jobizz/test/Jobizz-Recruteur/pages/timeline.vue",
-    "chunkName": "pages/timeline"
+    "chunkName": "pages/timeline",
+    "_name": "_aac9f3f0"
   },
   {
     "name": "index",
     "path": "/",
     "component": "/Users/theolebarq/Documents/jobizz/test/Jobizz-Recruteur/pages/index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_e2755dca"
   }
 ]
