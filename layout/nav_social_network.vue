@@ -4,8 +4,8 @@
       <b-navbar-nav class="navbar">
         <b-nav-item>Follow us on our socials network to don't miss our update</b-nav-item>
         <b-nav-item><NuxtLink class="text-color" to="/">Instagram</NuxtLink></b-nav-item>
-        <b-nav-item><NuxtLink class="text-color" to="/recruteur-about-us">Twitter</NuxtLink></b-nav-item>
-        <b-nav-item><NuxtLink class="text-color" to="/recruteur-why-jobizz">Facebook</NuxtLink></b-nav-item>
+        <b-nav-item><NuxtLink class="text-color" to="/">Twitter</NuxtLink></b-nav-item>
+        <b-nav-item><NuxtLink class="text-color" to="/">Facebook</NuxtLink></b-nav-item>
       </b-navbar-nav>
     </b-navbar>
   </div>
