@@ -5,10 +5,9 @@
         A propos de nous
     </h1>
     <p class="snippet">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Nullam elementum purus dignissim mi pulvinar tincidunt.
-        Pellentesque mattis ut arcu ac fermentum.
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Nous sommes au courant des difficultés que vous rencontrez pour trouver des missions ou des extras
+      C’est pourquoi nous avons créé JoBizz, une application pour vous aider dans ces démarches.
+      Notre solution permettrait un accès plus rapide et plus facile aux personnes dans le besoin.
     </p>
     <NuxtLink  to="/features">
     <button class="button btn"> En savoir plus</button></NuxtLink>

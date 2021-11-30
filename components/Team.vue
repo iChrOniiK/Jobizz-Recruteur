@@ -4,14 +4,13 @@
   <!-- <img class="litle-image" width="200" src="~/assets/element.png"/> -->
   <div class="page-feature container">
     <h1>L'equipe</h1>
-    <p class="page-feature__lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam elementum purus dignissim mi pulvinar tincidunt.
-      Pellentesque mattis ut arcu ac fermentum</p>
+    <p class="page-feature__lorem">Voici notre équipe d'avengers, pour développer ce projet !</p>
     <div class="page-feature__block" >
       <b-card-group deck>
       <b-card class="page-feature__block__logo" img-src="../assets/trombi1.png" img-alt="Card image">
         <h4>Développeur iOs</h4>
         <b-card-text class="page-feature__block__description">
-          Some quick example text to build on the card and make up the bulk of the card's content.
+          Notre développeur mobile !
         </b-card-text>
 
         <template #footer>
@@ -26,7 +25,7 @@
       <b-card class="page-feature__block__logo" img-src="../assets/trombi2.png" img-alt="Card image">
         <h4>Developpeur Back End</h4>
         <b-card-text class="page-feature__block__description">
-          Some quick example text to build on the card and make up the bulk of the card's content.
+          Notre développeur Back End !
         </b-card-text>
          <template #footer>
           <small class="text-muted">
@@ -40,7 +39,7 @@
       <b-card class="page-feature__block__logo" img-src="../assets/trombi-mieux.png" img-alt="Card image">
         <h4>Developpeur Front End</h4>
         <b-card-text class="page-feature__block__description">
-          Some quick example text to build on the card and make up the bulk of the card's content.
+          Notre développeur Front End !
         </b-card-text>
          <template #footer>
           <small class="text-muted">
@@ -59,7 +58,7 @@
       <b-card class="page-feature__block__logo" img-src="../assets/trombi6.png" img-alt="Card image">
         <h4>Dévellopeur FullStack</h4>
         <b-card-text class="page-feature__block__description">
-          Some quick example text to build on the card and make up the bulk of the card's content.
+          Notre développeur FullStack !
         </b-card-text>
          <template #footer>
           <small class="text-muted">
@@ -73,7 +72,7 @@
       <b-card class="page-feature__block__logo" img-src="../assets/trombi7.png" img-alt="Card image">
         <h4>DevOps</h4>
         <b-card-text class="page-feature__block__description">
-          Some quick example text to build on the card and make up the bulk of the card's content.
+          Notre développeur DevOps !
         </b-card-text>
          <template #footer>
           <small class="text-muted">

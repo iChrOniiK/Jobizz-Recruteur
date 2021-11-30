@@ -4,26 +4,25 @@
   <img class="litle-image" width="200" src="~/assets/element.png"/>
   <div class="page-feature container">
     <h1>Caractéristique</h1>
-    <p class="page-feature__lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam elementum purus dignissim mi pulvinar tincidunt.
-      Pellentesque mattis ut arcu ac fermentum</p>
+    <p class="page-feature__lorem">Une application simple à prendre en main, pour n'importe qui !</p>
     <div class="page-feature__block" >
       <b-card-group deck>
       <b-card class="page-feature__block__logo" img-src="../assets/image1.png" img-alt="Card image">
         <h3>Maps</h3>
         <b-card-text class="page-feature__block__description">
-          Some quick example text to build on the card and make up the bulk of the card's content.
+          Pour trouver les annonces tous près de votre position !
         </b-card-text>
       </b-card>
       <b-card class="page-feature__block__logo" img-src="../assets/image2.png" img-alt="Card image">
         <h3>Messages</h3>
         <b-card-text class="page-feature__block__description">
-          Some quick example text to build on the card and make up the bulk of the card's content.
+          Mise en relation immédiate avec votre recruteur !
         </b-card-text>
       </b-card>
       <b-card class="page-feature__block__logo" img-src="../assets/image3.png" img-alt="Card image">
         <h3>Customization</h3>
         <b-card-text class="page-feature__block__description">
-          Some quick example text to build on the card and make up the bulk of the card's content.
+          Choisissez les missions que vous voulez voir !
         </b-card-text>
       </b-card>
     </b-card-group>
@@ -34,19 +33,19 @@
       <b-card class="page-feature__block__logo" img-src="../assets/image6.png" img-alt="Card image">
         <h3>Accesible</h3>
         <b-card-text class="page-feature__block__description">
-          Some quick example text to build on the card and make up the bulk of the card's content.
+          N'importe qui peut utiliser notre application.
         </b-card-text>
       </b-card>
       <b-card class="page-feature__block__logo" img-src="../assets/image4.png" img-alt="Card image">
         <h3>Fast Process</h3>
         <b-card-text class="page-feature__block__description">
-          Some quick example text to build on the card and make up the bulk of the card's content.
+          Vous pouvez commencer vos missions immédiatement.
         </b-card-text>
       </b-card>
       <b-card class="page-feature__block__logo" img-src="../assets/image5.png" img-alt="Card image">
         <h3>Support 24/7</h3>
         <b-card-text class="page-feature__block__description">
-          Some quick example text to build on the card and make up the bulk of the card's content.
+          Jobizz toujours à votre écoute au moindre soucis !
         </b-card-text>
       </b-card>
     </b-card-group>

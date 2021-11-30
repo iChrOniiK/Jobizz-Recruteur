@@ -6,10 +6,10 @@
         Comment est ce que nous pouvons vous aider à trouver un job ou un extra ?
     </h1>
     <p class="snippet">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-        Nullam elementum purus dignissim mi pulvinar tincidunt.
-        Pellentesque mattis ut arcu ac fermentum.
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Grâce à notre application et votre géolocalisation,
+      notre application va vous permettrer de trouver un emploi facilement et rapidement autour de votre position.
+      En accédant à l'application JoBizz, vous allez pouvoir accéder à plusieurs offre d'emploi,
+      un profil personnalisé et une utilisation simple et adapté à tout type d'utilisateur.
     </p>
     <NuxtLink  to="/features">
     <button class="button btn"> En savoir plus</button></NuxtLink>
